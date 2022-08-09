@@ -1,5 +1,5 @@
 This is the ReadMe file for our group printf project.
-I am working on the project with Thuwaybah Lawal on this project.
+Project collaboration with Thuwaybah Lawal.
 
 Task 0:
 
